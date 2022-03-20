@@ -1,4 +1,4 @@
-## Olá Mundo! Me chamo jennifer Lima.
+## Olá Mundo! Eu me chamo jennifer Lima.
 
 
 <h1>Sou desenvolvedora front-end Junior</h1>
