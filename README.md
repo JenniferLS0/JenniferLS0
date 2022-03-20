@@ -1,7 +1,7 @@
 ## Olá Mundo! Eu me chamo jennifer Lima...
 
 
-<h1>Sou desenvolvedora front-end Junior</h1>
+<h3>Sou desenvolvedora front-end Junior</h1>
 
 <div align="center">
   <a href="https://github.com/JenniferLS0">
